@@ -1,1 +1,1 @@
-# blackjack-html-css-js
+Simple blackjack game made using HTML, CSS and JavaScript
