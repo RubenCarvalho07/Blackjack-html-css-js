@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(50, 50, 50);
+    text-align: center;
+    color: rgb(255, 100, 100);
+    font-family: monospace;
+}
+
+img {
+    height: 175px;
+    width: 125px;
+}
+
+button {
+    height: 50px;
+    width: 150px;
+    background-color: rgb(50, 50, 50);
+    border-color: rgb(255, 100, 100);
+    color: rgb(255, 100, 100);
+    font-family: monospace;
+}
+
+#results {
+    font-size: 20px;
+}
